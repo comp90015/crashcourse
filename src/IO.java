@@ -104,6 +104,8 @@ public class IO {
          */
         printWriter.println("Hello, world");
         printWriter.format("This is a number: %d\n", 10);
+        printWriter.flush();
+
 
         /**
          Exercise: look up the documentation for BufferedWriter and use it instead of PrintWriter (your code
