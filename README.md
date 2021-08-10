@@ -7,6 +7,9 @@ Each module is relatively self-contained, but it is intended that you'll go thro
 1. IO
 2. Exceptions
 3. Sockets
+4. Threads 1
+5. Threads 2
+6. Threads 3
 
 We'll be adding more modules as time goes on.
 
