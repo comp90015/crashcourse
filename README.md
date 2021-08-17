@@ -10,8 +10,8 @@ Each module is relatively self-contained, but it is intended that you'll go thro
 4. Threads 1
 5. Threads 2
 6. Threads 3
-
-We'll be adding more modules as time goes on.
+7. Atomics
+8. More Concurrency
 
 ## Running
 This repository is an IntelliJ project. One you clone it with git, you can open the project by going to File -> Open... and selecting the directory (probably called crashcourse).
